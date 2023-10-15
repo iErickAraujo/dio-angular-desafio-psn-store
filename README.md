@@ -1,5 +1,11 @@
 # Store
 
+Repositório para armazenar o desafio de recriar a Playstation Store do curso de Angular da DIO.
+
+[Desafio Playstation Store] - Projeto desenvolvido como parte do desafio de recriar a interface da Playstation Store utilizando parte (ou todo o) do conteúdo do curso de Angular. Componentizar e Modularizar um Layout.
+
+[Observações] - Projeto para fins de aprendizado.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
